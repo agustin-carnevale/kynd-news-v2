@@ -1,0 +1,2 @@
+export const FETCH_TITLES = 'FETCH_TITLES';
+export const FETCH_ARTICLE = 'SHOW_ARTICLE';
